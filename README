@@ -1,1 +1,3 @@
-A python script to view and clear your clipboard
+A python script for iOS to view and clear your clipboard.
+
+This is iOS only as it uses a special module found in [Pythonista for £9.99](https://itunes.apple.com/gb/app/pythonista-3/id1085978097?mt=8&uo=4&at=1001ltTe).

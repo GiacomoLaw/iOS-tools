@@ -1,4 +1,3 @@
-# you must use Pythonista on iOS to use this script (link in readme)
 # import the clipboard and view it
 
 import clipboard as cb

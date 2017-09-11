@@ -1,3 +1,5 @@
+# get a list of the next 20 birthdays from your contacts
+
 import contacts
 from datetime import datetime
 import operator

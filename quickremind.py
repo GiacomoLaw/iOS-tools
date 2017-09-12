@@ -1,4 +1,5 @@
 # a simple script if you often create the same reminder
+# add it to pythonistas today widget for one tap creation
 
 import reminders
 r = reminders.Reminder()

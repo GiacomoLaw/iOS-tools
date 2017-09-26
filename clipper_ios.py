@@ -12,14 +12,12 @@ if cbget == '':
 # ask to delete the clipboard if there is text detected
 else:
 	print(cbget)
-	
-	print("""
+
+	user_input = input("""
 -------
 Do you want to delete this text?
 
-Yes/No""")
-
-	user_input = input(": ")
+Yes/No: """)
 
 	if user_input == "yes":
 		cb.set(cleared)

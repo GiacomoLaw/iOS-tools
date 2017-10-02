@@ -19,10 +19,7 @@ Do you want to delete this text?
 
 Yes/No: """)
 
-	if user_input == "yes":
-		cb.set(cleared)
-		print("\nAll clear!")
-	elif user_input == "Yes":
+	if user_input == "yes" or "Yes":
 		cb.set(cleared)
 		print("\nAll clear!")
 	else:

@@ -13,11 +13,7 @@ if cbget == '':
 else:
 	print(cbget)
 
-	user_input = input("""
--------
-Do you want to delete this text?
-
-Yes/No: """)
+	user_input = input("\n-------\nDo you want to delete this text?\n\nYes/No: ")
 
 	if user_input == "yes" or "Yes":
 		cb.set(cleared)
